@@ -1,0 +1,23 @@
+{
+  "name": "prom-grafana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgrbs/node-prom-grafana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imgrbs/node-prom-grafana/issues"
+  },
+  "homepage": "https://github.com/imgrbs/node-prom-grafana#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prom-client": "^13.1.0"
+  }
+}
